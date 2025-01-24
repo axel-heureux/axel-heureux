@@ -1,5 +1,4 @@
-<img width="1834" alt="Make your README (3)" src="https://github.com/user-attachments/assets/f56638b7-96b5-4e6d-b961-21b5e1124aeb">
-
+<img width="1834" alt="Image" src="https://github.com/user-attachments/assets/8485a0bb-1620-4b67-819b-2adcab36025a" />
 
 <h1 align="center" > Salut, moi c'est Axel 👋</h1>
 <h2 align="center">🎓 Étudiant en Bachelor IT à La Plateforme | 🔐 Passionné par la Cybersécurité | 🚀 En quête de nouveaux défis</h2>
