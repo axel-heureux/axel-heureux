@@ -1,4 +1,4 @@
-<img width="1834" alt="Image" src="[https://github.com/user-attachments/assets/8485a0bb-1620-4b67-819b-2adcab36025a](https://github.com/user-attachments/assets/132eac52-656b-4bb5-bb2d-7d5739bae456)" />
+<img width="1834" alt="Image" src="https://github.com/user-attachments/assets/8485a0bb-1620-4b67-819b-2adcab36025a" />
 
 <h1 align="center" > Salut, moi c'est Axel 👋</h1>
 <h2 align="center">🎓 Étudiant en Bachelor IT à La Plateforme | 🔐 Passionné par la Cybersécurité | 🚀 En quête de nouveaux défis</h2>
