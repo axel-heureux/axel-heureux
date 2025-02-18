@@ -1,35 +1,11 @@
-<h1 align="center">Salut, moi c'est Axel 👋</h1>
-<h2 align="center">🎓 Étudiant en Bachelor IT à La Plateforme | 🔐 Passionné par le WEB | 🚀 En quête de nouveaux défis</h2>
+<h1> 💫 A propos : </h1>
+<h3>Je suis Axel, un développeur web Full-Stack passionné par l'univers du web 🌐 : </h3>
+<p>🎓 Actuellement étudiant en Bachelor Informatique à La Plateforme</p>
+<p>👨🏼‍💻 Développeur web, j'explore en permanence de nouvelles technologies</p>
+<p>🚀 Toujours à la recherche de nouveaux défis pour améliorer mes compétences et créer des expériences utilisateurs innovantes</p>
 
-<p>Bienvenue sur mon profil GitHub ! Je m'appelle Axel, étudiant en Bachelor Informatique à La Plateforme. Passionné par l'univers du web, je me spécialise dans ce domaine fascinant afin de protéger les systèmes et les données contre les menaces de plus en plus complexes. 🔒</p>
 
-<h2>À propos de moi</h2>
+<h1>💻 Tech Stack:</h1>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-<h3>💻 Technologies :</h3>
-<p>J'explore actuellement plusieurs technologies liées à l'IT :</p>
-
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-<p>À venir :</p>
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-<h3>🔐 Mon approche :</h3>
-<p>Ma passion pour le web m'amène à toujours chercher à développer des solutions innovantes et performantes. Mon approche se base sur l’optimisation de l’expérience utilisateur, le respect des meilleures pratiques en matière de sécurité, et la mise en place d’infrastructures web fiables. Je mets l'accent sur la conception de sites web dynamiques, réactifs et sécurisés, tout en restant à l'écoute des tendances et évolutions technologiques dans le développement web.</p>
-
-<h3>🎯 Objectifs professionnels :</h3>
-<p>Mon objectif professionnel est de devenir un développeur web full-stack expérimenté. Je souhaite approfondir mes compétences en développement front-end et back-end pour créer des applications web performantes et sécurisées. À terme, je désire travailler sur des projets de grande envergure, allant du développement de sites vitrines aux applications web complexes, en mettant l'accent sur l'expérience utilisateur et la sécurité des données.</p>
-
-<h3>🔧 Compétences développées à travers mes projets :</h3>
-<ul>
-  <li><strong>Création d'un site de quiz interactif</strong> : Développement d'une plateforme dynamique où les utilisateurs peuvent répondre à des quiz. Gestion des scores et de la progression des utilisateurs avec un suivi en temps réel. Ce projet m'a permis de renforcer mes compétences en HTML, CSS, PHP, et JavaScript, en mettant en œuvre des fonctionnalités interactives.</li>
-  <li><strong>Création et requêtage d'une BDD relationnelle</strong> : Conception et gestion d'une base de données SQL relationnelle pour stocker et organiser les données des utilisateurs et des quiz. Maîtrise des requêtes SQL pour manipuler, insérer et récupérer les données efficacement.</li>
-  <li><strong>Utilisation d'un serveur back-end</strong> : Mise en place d'un serveur back-end pour gérer la logique métier de l'application et interagir avec la base de données. Ce projet m'a permis de travailler avec PHP et de comprendre les concepts de développement côté serveur.</li>
-</ul>
-
-<h3 align="left">📩 Me contacter !</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/axel-heureux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axel-heureux" height="30" width="40" /></a>
-  
-  <a href="https://axel-heureux.students-laplateforme.io/portfolio/" target="blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=axel-heureux&icon=0&color=0)](https://visitcount.itsvg.in)
