@@ -30,4 +30,5 @@
 <h3 align="left">📩 Me contacter !</h3>
 <p align="left">
   <a href="https://linkedin.com/in/axel-heureux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axel-heureux" height="30" width="40" /></a>
+  <a href="https://axel-heureux.students-laplateforme.io/portfolio/" target="blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
 </p>
