@@ -8,13 +8,7 @@
 <h3>💻 Technologies :</h3>
 <p>J'explore actuellement plusieurs technologies liées à l'IT :</p>
 
-<p>
-  <span style="background-color: #f0db4f; color: black; padding: 5px 10px; border-radius: 5px; margin-right: 10px;">HTML</span>
-  <span style="background-color: #264de4; color: white; padding: 5px 10px; border-radius: 5px; margin-right: 10px;">CSS</span>
-  <span style="background-color: #8e44ad; color: white; padding: 5px 10px; border-radius: 5px; margin-right: 10px;">PHP</span>
-  <span style="background-color: #306998; color: white; padding: 5px 10px; border-radius: 5px; margin-right: 10px;">Python</span>
-  <span style="background-color: #e44b23; color: white; padding: 5px 10px; border-radius: 5px; margin-right: 10px;">SQL</span>
-</p>
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <p>À venir :</p>
 <p>
