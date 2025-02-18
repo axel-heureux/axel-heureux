@@ -1,3 +1,5 @@
+<img src="banner.jpg" alt="GitHub Banner" width="100%" />
+
 <h1> 💫 A propos : </h1>
 <h3>Je suis Axel, un développeur web Full-Stack passionné par l'univers du web 🌐 : </h3>
 <p>🎓 Actuellement étudiant en Bachelor Informatique à La Plateforme</p>
